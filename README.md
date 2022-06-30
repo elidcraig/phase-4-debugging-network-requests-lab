@@ -60,14 +60,14 @@ developing your own process.
 
 ## Your Notes Here
 
-- Add a new toy when the toy form is submitted
+[ ] Add a new toy when the toy form is submitted
 
   - How I debugged:
 
-- Update the number of likes for a toy
+[x] Update the number of likes for a toy
 
-  - How I debugged:
+  - How I debugged: Rendering json response with updated toy object to the update method in toys_controller.
 
-- Donate a toy to Goodwill (and delete it from our database)
+[x] Donate a toy to Goodwill (and delete it from our database)
 
-  - How I debugged:
+  - How I debugged:  Added 'destroy' to controller actions listed for resource 'toys' in routes.rb.
