@@ -60,9 +60,9 @@ developing your own process.
 
 ## Your Notes Here
 
-[ ] Add a new toy when the toy form is submitted
+[x] Add a new toy when the toy form is submitted
 
-  - How I debugged:
+  - How I debugged: Removed 's' from 'Toy'.
 
 [x] Update the number of likes for a toy
 
